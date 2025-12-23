@@ -27,6 +27,9 @@ Focusing on writing clean, efficient, and interview-ready code — strengthening
 | 4 | Valid Parentheses | Stack / String | 🟢 Easy | Dec 19, 2025 | [View Problem](https://leetcode.com/problems/valid-parentheses/) |
 | 5 | Valid Anagram | Strings / HashMap | 🟢 Easy | Dec 20, 2025 | [View Problem](https://leetcode.com/problems/valid-anagram/) |
 | 6 | Best Time to Buy and Sell Stock | Arrays / Two Pointers | 🟢 Easy | Dec 20, 2025 | [View Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 7 | Move Zeroes | Arrays / Two Pointers | 🟢 Easy | Dec 21, 2025 | [View Problem](https://leetcode.com/problems/move-zeroes/) |
+| 8 | Group Anagrams | Strings / HashMap | 🟡 Medium | Dec 22, 2025 | [View Problem](https://leetcode.com/problems/group-anagrams/) |
+| 9 | Contains Duplicate | Arrays / HashSet | 🟢 Easy | Dec 22, 2025 | [View Problem](https://leetcode.com/problems/contains-duplicate/) |
 
 > 📈 *Goal:* Solve 1–2 problems daily while reinforcing Java patterns and clean code practices.
 
@@ -37,5 +40,6 @@ Focusing on writing clean, efficient, and interview-ready code — strengthening
 Each problem is stored in its own folder and can be compiled directly from the CLI.
 
 ```bash
-javac Day20_ValidAnagram/ValidAnagram.java
-java Day20_ValidAnagram.ValidAnagram
+# Example: Compile and run a problem
+javac Day22_GroupAnagrams/GroupAnagrams.java
+java Day22_GroupAnagrams.GroupAnagrams
