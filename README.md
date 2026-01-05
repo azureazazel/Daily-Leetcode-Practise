@@ -1,11 +1,11 @@
-# 🧠 LeetCode DSA Practice (Java)
+#  LeetCode DSA Practice (Java)
 
 A structured collection of **Java LeetCode solutions**, organized by topic and difficulty.  
 Focusing on writing clean, efficient, and interview-ready code — strengthening both **data structures** and **algorithmic thinking** for software engineering roles.
 
 ---
 
-## 📘 Topics Covered
+##  Topics Covered
 - Arrays & Strings  
 - Linked Lists  
 - Stacks & Queues  
@@ -17,7 +17,7 @@ Focusing on writing clean, efficient, and interview-ready code — strengthening
 
 ---
 
-## 📅 Daily Progress Tracker
+##  Daily Progress Tracker
 
 | # | Problem | Topic | Difficulty | Date | Link |
 |---|----------|--------|-------------|------|------|
@@ -31,11 +31,11 @@ Focusing on writing clean, efficient, and interview-ready code — strengthening
 | 8 | Group Anagrams | Strings / HashMap | 🟡 Medium | Dec 22, 2025 | [View Problem](https://leetcode.com/problems/group-anagrams/) |
 | 9 | Contains Duplicate | Arrays / HashSet | 🟢 Easy | Dec 22, 2025 | [View Problem](https://leetcode.com/problems/contains-duplicate/) |
 
-> 📈 *Goal:* Solve 1–2 problems daily while reinforcing Java patterns and clean code practices.
+>  *Goal:* Solve 1–2 problems daily while reinforcing Java patterns and clean code practices.
 
 ---
 
-## ⚙️ Setup & Run (Locally)
+##  Setup & Run (Locally)
 
 Each problem is stored in its own folder and can be compiled directly from the CLI.
 
