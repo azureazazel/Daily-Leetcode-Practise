@@ -17,7 +17,7 @@ Focusing on writing clean, efficient, and interview-ready code — strengthening
 
 ---
 
-##  Daily Progress Tracker
+## 📅 Daily Progress Tracker
 
 | # | Problem | Topic | Difficulty | Date | Link |
 |---|----------|--------|-------------|------|------|
@@ -31,6 +31,8 @@ Focusing on writing clean, efficient, and interview-ready code — strengthening
 | 8 | Group Anagrams | Strings / HashMap | 🟡 Medium | Dec 22, 2025 | [View Problem](https://leetcode.com/problems/group-anagrams/) |
 | 9 | Contains Duplicate | Arrays / HashSet | 🟢 Easy | Dec 22, 2025 | [View Problem](https://leetcode.com/problems/contains-duplicate/) |
 | 10 | Min Stack | Stack / Design | 🟡 Medium | Dec 23, 2025 | [View Problem](https://leetcode.com/problems/min-stack/) |
+| 11 | Maximum Subarray | Arrays / Dynamic Programming | 🟡 Medium | Jan 14, 2026 | [View Problem](https://leetcode.com/problems/maximum-subarray/) |
+| 12 | 3Sum | Arrays / Two Pointers | 🟡 Medium | Jan 14, 2026 | [View Problem](https://leetcode.com/problems/3sum/) |
 
 >  *Goal:* Solve 1–2 problems daily while reinforcing Java patterns and clean code practices.
 
@@ -42,5 +44,5 @@ Each problem is stored in its own folder and can be compiled directly from the C
 
 ```bash
 # Example: Compile and run a problem
-javac Day23_MinStack/MinStack.java
-java Day23_MinStack.MinStack
+javac Day23_MaximumSubarray/MaximumSubarray.java
+java Day23_MaximumSubarray.MaximumSubarray
