@@ -5,7 +5,7 @@ import java.util.Queue;
 
 public class Implementation {
     Queue<Integer> queue = new LinkedList<>();
-    public int insert(int value){
+    public boolean insert(int value){
         return queue.add(value);
     }
 

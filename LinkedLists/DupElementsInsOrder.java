@@ -4,7 +4,6 @@ import java.util.*;
 public class DupElementsInsOrder {
     public static void Delete(List<Integer> list){
         Set<Integer> set = new LinkedHashSet<>();
-        int n = list.size();
         for( int i : list){
             set.add(i);
         }
